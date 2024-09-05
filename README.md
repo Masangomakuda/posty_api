@@ -1,5 +1,5 @@
 
-(https://github.com/Masangomakuda/posty_api/assets/25201331/6ddc60e3-7f70-4bbe-83bb-bf14217a3565)
+![api](https://github.com/user-attachments/assets/8d5ace1b-663e-424b-bdd9-1903a71fad36)
 
 
 ## About POSTY API
